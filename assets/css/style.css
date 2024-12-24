@@ -29,10 +29,56 @@ a { color:blue; text-decoration: none;}
 .anchors {
     border-left: solid 1px #cdcdcd;
     padding-left: 15px;
+    position: fixed;
+    height: 100vh;
+    right: 15px;
+    width: 200px;
 }
 .sidebar {
     border-right: solid 1px #cdcdcd;
 }
 figure {
     text-align: center;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    text-align: justify;
+}
+li{
+    margin-bottom: 5px;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+tbody tr{
+    text-align: center;
+    
+}
+
+tbody tr:nth-child(even){
+    background-color: #eee;
+}
+
+tbody tr:hover{
+    background-color: #ccc;
+}
+
+.footer01 h6{
+    margin: 10px;
+}
+
+.footer02{
+    margin-top: 0px;
+    display: flex;
+    justify-content: start;
+    color: red;
+}
+
+.footer02 h6{
+    margin: 10px 10px;
 }

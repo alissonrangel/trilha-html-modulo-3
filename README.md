@@ -16,4 +16,17 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
 
+## Desafio respondido por Alisson Rangel
+- Tema do desafio foi a Série Cobra Kai;
+- usei as tags img, iframe, details, summary, figure, figcaption, main, header, footer, article, section, aside;
+- usei as tags details e summary para mostrar e esconder a foto dos atores do elenco da série;
+- usei a tag iframe para mostrar vídeos do youtube com o trailer de cada temporada; 
+- criei uma logotipo.
+
+## Imagens do site
+
+<img src="./assets/images/site01.png" width="400"/>
+<img src="./assets/images/site02.png" width="400"/>
+<img src="./assets/images/site03.png" width="400"/>
+
 
